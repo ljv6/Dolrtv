@@ -44,15 +44,15 @@
     },
     {
       "id": 3,
-      "title_ar": "أفلام",
-      "title_en": "Movies",
+      "title_ar": "قران",
+      "title_en": "قران",
       "channels": [
         {
           "id": 301,
-          "name_ar": "أفلام 1",
-          "name_en": "Movies 1",
-          "image": "https://dummyimage.com/600x400/3f3f46/ffffff.png&text=Movies+1",
-          "stream_url": "https://test-streams.mux.dev/big-buck-bunny/master.m3u8"
+          "name_ar": "اقرا",
+          "name_en": "اقرا",
+          "image": "https://i.imgur.com/HPVsIa4.png",
+          "stream_url": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8"
         },
         {
           "id": 302,
