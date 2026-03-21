@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "بث مباشر",
+      "type": "live",
+      "items": [
+        {
+          "id": 101,
+          "titleAr": "SSC Sports",
+          "description": "بث مباشر للمباريات",
+          "poster": "https://link-to-image.png",
+          "url": "https://stream-url.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "أفلام",
+      "type": "movie",
+      "items": [
+        {
+          "id": 201,
+          "titleAr": "ولاد رزق 3",
+          "description": "فيلم أكشن مصري",
+          "poster": "https://link-to-poster.jpg",
+          "url": "https://movie-url.mp4"
+        }
+      ]
+    }
+  ]
+}
