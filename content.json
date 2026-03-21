@@ -2,64 +2,62 @@
   "sections": [
     {
       "id": 1,
-      "title_ar": "أخبار",
-      "title_en": "News",
+      "title_ar": "المسلسلات الخليجية",
+      "type": "series",
       "channels": [
         {
           "id": 101,
-          "name_ar": "قناة الأخبار 1",
-          "name_en": "News Channel 1",
-          "image": "https://dummyimage.com/600x400/111827/ffffff.png&text=News+1",
-          "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-        },
-        {
-          "id": 102,
-          "name_ar": "قناة الأخبار 2",
-          "name_en": "News Channel 2",
-          "image": "https://dummyimage.com/600x400/1f2937/ffffff.png&text=News+2",
-          "stream_url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+          "name_ar": "مسلسل شباب البومب 12",
+          "name_en": "Shabab Al-Bomb 12",
+          "image": "https://example.com/poster1.jpg",
+          "episodes": [
+            { "title": "الحلقة 1", "url": "https://stream.com/ep1.m3u8" },
+            { "title": "الحلقة 2", "url": "https://stream.com/ep2.m3u8" }
+          ]
         }
       ]
     },
     {
       "id": 2,
-      "title_ar": "رياضة",
-      "title_en": "Sports",
+      "title_ar": "المسلسلات الأجنبية",
+      "type": "series",
       "channels": [
         {
           "id": 201,
-          "name_ar": "الرياضة 1",
-          "name_en": "Sports 1",
-          "image": "https://dummyimage.com/600x400/0f172a/ffffff.png&text=Sports+1",
-          "stream_url": "https://test-streams.mux.dev/test_001/stream.m3u8"
-        },
-        {
-          "id": 202,
-          "name_ar": "الرياضة 2",
-          "name_en": "Sports 2",
-          "image": "https://dummyimage.com/600x400/334155/ffffff.png&text=Sports+2",
-          "stream_url": "https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8"
+          "name_ar": "مسلسل صراع العروش",
+          "name_en": "Game of Thrones",
+          "image": "https://example.com/poster2.jpg",
+          "episodes": [
+            { "title": "S01 E01", "url": "https://stream.com/got1.m3u8" }
+          ]
         }
       ]
     },
     {
       "id": 3,
-      "title_ar": "قران",
-      "title_en": "قران",
+      "title_ar": "الأفلام",
+      "type": "live",
       "channels": [
         {
           "id": 301,
-          "name_ar": "اقرا",
-          "name_en": "اقرا",
-          "image": "https://i.imgur.com/HPVsIa4.png",
-          "stream_url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8"
-        },
+          "name_ar": "فيلم أكشن هوليوود",
+          "name_en": "Action Movie",
+          "image": "https://example.com/movie1.jpg",
+          "stream_url": "https://stream.com/movie.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title_ar": "البث المباشر",
+      "type": "live",
+      "channels": [
         {
-          "id": 302,
-          "name_ar": "أفلام 2",
-          "name_en": "Movies 2",
-          "image": "https://dummyimage.com/600x400/27272a/ffffff.png&text=Movies+2",
-          "stream_url": "https://test-streams.mux.dev/pts_shift/master.m3u8"
+          "id": 401,
+          "name_ar": "قناة SSC الرياضية",
+          "name_en": "SSC Sports",
+          "image": "https://example.com/ssc.jpg",
+          "stream_url": "https://stream.com/ssc_live.m3u8"
         }
       ]
     }
