@@ -6,6 +6,82 @@
       "type": "series",
       "channels": [
         {
+          "id": 105,
+          "name_ar": "شارع الأعشى - الموسم الأول",
+          "name_en": "Sharee Al-Asha - S01",
+          "image": "https://example.com/sharee-al-asha.jpg",
+          "episodes": [
+            { "title": "الحلقة 01", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/01.mp4" },
+            { "title": "الحلقة 02", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/02.mp4" },
+            { "title": "الحلقة 03", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/03.mp4" },
+            { "title": "الحلقة 04", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/04.mp4" },
+            { "title": "الحلقة 05", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/05.mp4" },
+            { "title": "الحلقة 06", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/06.mp4" },
+            { "title": "الحلقة 07", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/07.mp4" },
+            { "title": "الحلقة 08", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/08.mp4" },
+            { "title": "الحلقة 09", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/09.mp4" },
+            { "title": "الحلقة 10", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/10.mp4" },
+            { "title": "الحلقة 11", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/11.mp4" },
+            { "title": "الحلقة 12", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/12.mp4" },
+            { "title": "الحلقة 13", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/13.mp4" },
+            { "title": "الحلقة 14", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/14.mp4" },
+            { "title": "الحلقة 15", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/15.mp4" },
+            { "title": "الحلقة 16", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/16.mp4" },
+            { "title": "الحلقة 17", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/17.mp4" },
+            { "title": "الحلقة 18", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/18.mp4" },
+            { "title": "الحلقة 19", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/19.mp4" },
+            { "title": "الحلقة 20", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/20.mp4" },
+            { "title": "الحلقة 21", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/21.mp4" },
+            { "title": "الحلقة 22", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/22.mp4" },
+            { "title": "الحلقة 23", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/23.mp4" },
+            { "title": "الحلقة 24", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/24.mp4" },
+            { "title": "الحلقة 25", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/25.mp4" },
+            { "title": "الحلقة 26", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/26.mp4" },
+            { "title": "الحلقة 27", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/27.mp4" },
+            { "title": "الحلقة 28", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/28.mp4" },
+            { "title": "الحلقة 29", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/29.mp4" },
+            { "title": "الحلقة 30", "url": "https://vid4.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/30.mp4" }
+          ]
+        },
+        {
+          "id": 106,
+          "name_ar": "شارع الأعشى - الموسم الثاني",
+          "name_en": "Sharee Al-Asha - S02",
+          "image": "https://example.com/sharee-al-asha-2.jpg",
+          "episodes": [
+            { "title": "الحلقة 01", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/01.mp4" },
+            { "title": "الحلقة 02", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/02.mp4" },
+            { "title": "الحلقة 03", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/03.mp4" },
+            { "title": "الحلقة 04", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/04.mp4" },
+            { "title": "الحلقة 05", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/05.mp4" },
+            { "title": "الحلقة 06", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/06.mp4" },
+            { "title": "الحلقة 07", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/07.mp4" },
+            { "title": "الحلقة 08", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/08.mp4" },
+            { "title": "الحلقة 09", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/09.mp4" },
+            { "title": "الحلقة 10", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/10.mp4" },
+            { "title": "الحلقة 11", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/11.mp4" },
+            { "title": "الحلقة 12", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/12.mp4" },
+            { "title": "الحلقة 13", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/13.mp4" },
+            { "title": "الحلقة 14", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/14.mp4" },
+            { "title": "الحلقة 15", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/15.mp4" },
+            { "title": "الحلقة 16", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/16.mp4" },
+            { "title": "الحلقة 17", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/17.mp4" },
+            { "title": "الحلقة 18", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/18.mp4" },
+            { "title": "الحلقة 19", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/19.mp4" },
+            { "title": "الحلقة 20", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/20.mp4" },
+            { "title": "الحلقة 21", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/21.mp4" },
+            { "title": "الحلقة 22", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/22.mp4" },
+            { "title": "الحلقة 23", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/23.mp4" },
+            { "title": "الحلقة 24", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/24.mp4" },
+            { "title": "الحلقة 25", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/25.mp4" },
+            { "title": "الحلقة 26", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/26.mp4" },
+            { "title": "الحلقة 27", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/27.mp4" },
+            { "title": "الحلقة 28", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/28.mp4" },
+            { "title": "الحلقة 29", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/29.mp4" },
+            { "title": "الحلقة 30", "url": "https://vid4.klj-5lkik-wdnd.space/Sharee-Al-Asha-2/30.mp4" }
+          ]
+        },
+        {
           "id": 101,
           "name_ar": "شباب البومب 12",
           "name_en": "Shabab Al-Bomb 12",
@@ -25,90 +101,7 @@
           "episodes": [
             { "title": "الحلقة 1", "url": "url" }, { "title": "الحلقة 2", "url": "url" }, { "title": "الحلقة 3", "url": "url" }, { "title": "الحلقة 4", "url": "url" }
           ]
-        },
-        {
-          "id": 103,
-          "name_ar": "مسلسل خليجي 3",
-          "name_en": "Khaleeji 3",
-          "image": "https://example.com/poster.jpg",
-          "episodes": [
-            { "title": "الحلقة 1", "url": "url" }, { "title": "الحلقة 2", "url": "url" }, { "title": "الحلقة 3", "url": "url" }, { "title": "الحلقة 4", "url": "url" }
-          ]
-        },
-        {
-          "id": 104,
-          "name_ar": "مسلسل خليجي 4",
-          "name_en": "Khaleeji 4",
-          "image": "https://example.com/poster.jpg",
-          "episodes": [
-            { "title": "الحلقة 1", "url": "url" }, { "title": "الحلقة 2", "url": "url" }, { "title": "الحلقة 3", "url": "url" }, { "title": "الحلقة 4", "url": "url" }
-          ]
         }
-      ]
-    },
-    {
-      "id": 2,
-      "title_ar": "المسلسلات الأجنبية",
-      "type": "series",
-      "channels": [
-        {
-          "id": 201,
-          "name_ar": "مسلسل أجنبي 1",
-          "name_en": "Foreign 1",
-          "image": "url",
-          "episodes": [
-            { "title": "E01", "url": "url" }, { "title": "E02", "url": "url" }, { "title": "E03", "url": "url" }, { "title": "E04", "url": "url" }
-          ]
-        },
-        {
-          "id": 202,
-          "name_ar": "مسلسل أجنبي 2",
-          "name_en": "Foreign 2",
-          "image": "url",
-          "episodes": [
-            { "title": "E01", "url": "url" }, { "title": "E02", "url": "url" }, { "title": "E03", "url": "url" }, { "title": "E04", "url": "url" }
-          ]
-        },
-        {
-          "id": 203,
-          "name_ar": "مسلسل أجنبي 3",
-          "name_en": "Foreign 3",
-          "image": "url",
-          "episodes": [
-            { "title": "E01", "url": "url" }, { "title": "E02", "url": "url" }, { "title": "E03", "url": "url" }, { "title": "E04", "url": "url" }
-          ]
-        },
-        {
-          "id": 204,
-          "name_ar": "مسلسل أجنبي 4",
-          "name_en": "Foreign 4",
-          "image": "url",
-          "episodes": [
-            { "title": "E01", "url": "url" }, { "title": "E02", "url": "url" }, { "title": "E03", "url": "url" }, { "title": "E04", "url": "url" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title_ar": "الأفلام",
-      "type": "live",
-      "channels": [
-        { "id": 301, "name_ar": "فيلم 1", "name_en": "Movie 1", "image": "url", "stream_url": "url" },
-        { "id": 302, "name_ar": "فيلم 2", "name_en": "Movie 2", "image": "url", "stream_url": "url" },
-        { "id": 303, "name_ar": "فيلم 3", "name_en": "Movie 3", "image": "url", "stream_url": "url" },
-        { "id": 304, "name_ar": "فيلم 4", "name_en": "Movie 4", "image": "url", "stream_url": "url" }
-      ]
-    },
-    {
-      "id": 4,
-      "title_ar": "البث المباشر",
-      "type": "live",
-      "channels": [
-        { "id": 401, "name_ar": "قناة 1", "name_en": "Live 1", "image": "url", "stream_url": "url" },
-        { "id": 402, "name_ar": "قناة 2", "name_en": "Live 2", "image": "url", "stream_url": "url" },
-        { "id": 403, "name_ar": "قناة 3", "name_en": "Live 3", "image": "url", "stream_url": "url" },
-        { "id": 404, "name_ar": "قناة 4", "name_en": "Live 4", "image": "url", "stream_url": "url" }
       ]
     }
   ]
