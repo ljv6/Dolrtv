@@ -1,30 +1,65 @@
 {
-  "categories": [
+  "sections": [
     {
       "id": 1,
-      "name": "بث مباشر",
-      "type": "live",
-      "items": [
+      "title_ar": "أخبار",
+      "title_en": "News",
+      "channels": [
         {
           "id": 101,
-          "titleAr": "SSC Sports",
-          "description": "بث مباشر للمباريات",
-          "poster": "https://link-to-image.png",
-          "url": "https://stream-url.m3u8"
+          "name_ar": "قناة الأخبار 1",
+          "name_en": "News Channel 1",
+          "image": "https://dummyimage.com/600x400/111827/ffffff.png&text=News+1",
+          "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        },
+        {
+          "id": 102,
+          "name_ar": "قناة الأخبار 2",
+          "name_en": "News Channel 2",
+          "image": "https://dummyimage.com/600x400/1f2937/ffffff.png&text=News+2",
+          "stream_url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
         }
       ]
     },
     {
       "id": 2,
-      "name": "أفلام",
-      "type": "movie",
-      "items": [
+      "title_ar": "رياضة",
+      "title_en": "Sports",
+      "channels": [
         {
           "id": 201,
-          "titleAr": "ولاد رزق 3",
-          "description": "فيلم أكشن مصري",
-          "poster": "https://link-to-poster.jpg",
-          "url": "https://movie-url.mp4"
+          "name_ar": "الرياضة 1",
+          "name_en": "Sports 1",
+          "image": "https://dummyimage.com/600x400/0f172a/ffffff.png&text=Sports+1",
+          "stream_url": "https://test-streams.mux.dev/test_001/stream.m3u8"
+        },
+        {
+          "id": 202,
+          "name_ar": "الرياضة 2",
+          "name_en": "Sports 2",
+          "image": "https://dummyimage.com/600x400/334155/ffffff.png&text=Sports+2",
+          "stream_url": "https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title_ar": "قران",
+      "title_en": "قران",
+      "channels": [
+        {
+          "id": 301,
+          "name_ar": "اقرا",
+          "name_en": "اقرا",
+          "image": "https://i.imgur.com/HPVsIa4.png",
+          "stream_url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8"
+        },
+        {
+          "id": 302,
+          "name_ar": "أفلام 2",
+          "name_en": "Movies 2",
+          "image": "https://dummyimage.com/600x400/27272a/ffffff.png&text=Movies+2",
+          "stream_url": "https://test-streams.mux.dev/pts_shift/master.m3u8"
         }
       ]
     }
