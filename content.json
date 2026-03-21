@@ -92,16 +92,39 @@
             { "title": "الحلقة 3", "url": "https://stream.com/ep3.m3u8" },
             { "title": "الحلقة 4", "url": "https://stream.com/ep4.m3u8" }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title_ar": "المسلسلات الأجنبية",
+      "type": "series",
+      "channels": [
         {
-          "id": 102,
-          "name_ar": "مسلسل خليجي 2",
-          "name_en": "Khaleeji 2",
-          "image": "https://example.com/poster.jpg",
+          "id": 201,
+          "name_ar": "مسلسل أجنبي 1",
+          "name_en": "Foreign 1",
+          "image": "url",
           "episodes": [
-            { "title": "الحلقة 1", "url": "url" }, { "title": "الحلقة 2", "url": "url" }, { "title": "الحلقة 3", "url": "url" }, { "title": "الحلقة 4", "url": "url" }
+            { "title": "E01", "url": "url" }, { "title": "E02", "url": "url" }, { "title": "E03", "url": "url" }, { "title": "E04", "url": "url" }
           ]
         }
+      ]
+    },
+    {
+      "id": 3,
+      "title_ar": "الأفلام",
+      "type": "live",
+      "channels": [
+        { "id": 301, "name_ar": "فيلم 1", "name_en": "Movie 1", "image": "url", "stream_url": "url" }
+      ]
+    },
+    {
+      "id": 4,
+      "title_ar": "البث المباشر",
+      "type": "live",
+      "channels": [
+        { "id": 401, "name_ar": "قناة 1", "name_en": "Live 1", "image": "url", "stream_url": "url" }
       ]
     }
   ]
