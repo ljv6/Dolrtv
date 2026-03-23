@@ -120,6 +120,45 @@
             { "title": "الحلقة 29", "url": "https://vid4.klj-5lkik-wdnd.space/Shabab-ElBoomb-014/29.mp4" },
             { "title": "الحلقة 30", "url": "https://vid4.klj-5lkik-wdnd.space/Shabab-ElBoomb-014/30.mp4" }
           ]
+        },
+
+        {
+          "id": 999,
+          "name_ar": "حي الجرادية",
+          "name_en": "Hayy Al-Jaradiyah",
+          "image": "https://example.com/image.jpg",
+          "episodes": [
+            { "title": "الحلقة 01", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/01.mp4" },
+            { "title": "الحلقة 02", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/02.mp4" },
+            { "title": "الحلقة 03", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/03.mp4" },
+            { "title": "الحلقة 04", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/04.mp4" },
+            { "title": "الحلقة 05", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/05.mp4" },
+            { "title": "الحلقة 06", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/06.mp4" },
+            { "title": "الحلقة 07", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/07.mp4" },
+            { "title": "الحلقة 08", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/08.mp4" },
+            { "title": "الحلقة 09", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/09.mp4" },
+            { "title": "الحلقة 10", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/10.mp4" },
+            { "title": "الحلقة 11", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/11.mp4" },
+            { "title": "الحلقة 12", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/12.mp4" },
+            { "title": "الحلقة 13", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/13.mp4" },
+            { "title": "الحلقة 14", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/14.mp4" },
+            { "title": "الحلقة 15", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/15.mp4" },
+            { "title": "الحلقة 16", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/16.mp4" },
+            { "title": "الحلقة 17", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/17.mp4" },
+            { "title": "الحلقة 18", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/18.mp4" },
+            { "title": "الحلقة 19", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/19.mp4" },
+            { "title": "الحلقة 20", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/20.mp4" },
+            { "title": "الحلقة 21", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/21.mp4" },
+            { "title": "الحلقة 22", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/22.mp4" },
+            { "title": "الحلقة 23", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/23.mp4" },
+            { "title": "الحلقة 24", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/24.mp4" },
+            { "title": "الحلقة 25", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/25.mp4" },
+            { "title": "الحلقة 26", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/26.mp4" },
+            { "title": "الحلقة 27", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/27.mp4" },
+            { "title": "الحلقة 28", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/28.mp4" },
+            { "title": "الحلقة 29", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/29.mp4" },
+            { "title": "الحلقة 30", "url": "https://vid1.klj-5lkik-wdnd.space/Hayy-Al-Jaradiyah/30.mp4" }
+          ]
         }
       ]
     },
@@ -135,11 +174,15 @@
           "name_en": "Foreign 1",
           "image": "url",
           "episodes": [
-            { "title": "E01", "url": "url" }, { "title": "E02", "url": "url" }, { "title": "E03", "url": "url" }, { "title": "E04", "url": "url" }
+            { "title": "E01", "url": "url" },
+            { "title": "E02", "url": "url" },
+            { "title": "E03", "url": "url" },
+            { "title": "E04", "url": "url" }
           ]
         }
       ]
     },
+
     {
       "id": 3,
       "title_ar": "الأفلام",
@@ -148,6 +191,7 @@
         { "id": 301, "name_ar": "فيلم 1", "name_en": "Movie 1", "image": "url", "stream_url": "url" }
       ]
     },
+
     {
       "id": 4,
       "title_ar": "البث المباشر",
